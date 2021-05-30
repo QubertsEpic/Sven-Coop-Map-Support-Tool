@@ -19,12 +19,6 @@ namespace Project_3
         public static void Main()
         {
             Console.Clear();
-            foreach (var value in FindSteamDir.find())
-            {
-                Console.WriteLine(value);
-                Console.ReadKey();
-            }
-
             Console.Title = "Half-Life Map Support Tool";
             Console.Write(
                 "\n\\\\Half-Life Spinoff map support tool for Sven Co-Op by Matthew Findlay//\n\nThe required space for this tool to function is over 80MB of free space.\nInstallation can take a few minutes to complete.\nAlso, please stay focused on this application while it is running\n\nImportant: To install the support for these games you must have them installed on Steam\n\nPress any key to proceed or ESC to quit...");

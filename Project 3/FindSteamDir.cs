@@ -8,7 +8,7 @@ namespace Project_3
 {
     public class FindSteamDir
     {
-        public static List<String> find()
+        public static List<String> FindDirectories()
         {
             List<string> libraryPaths = new List<string>();
             string steamPath, regexSearch = "[A-Z]:\\\\";
