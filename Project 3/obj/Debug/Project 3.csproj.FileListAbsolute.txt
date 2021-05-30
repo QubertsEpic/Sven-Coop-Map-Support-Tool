@@ -1,0 +1,6 @@
+C:\Users\matth\RiderProjects\Project 3\Project 3\bin\Debug\Project_3.exe
+C:\Users\matth\RiderProjects\Project 3\Project 3\bin\Debug\Project_3.pdb
+C:\Users\matth\RiderProjects\Project 3\Project 3\obj\Debug\Project 3.csproj.CoreCompileInputs.cache
+C:\Users\matth\RiderProjects\Project 3\Project 3\obj\Debug\Project_3.exe
+C:\Users\matth\RiderProjects\Project 3\Project 3\obj\Debug\Project_3.pdb
+C:\Users\matth\RiderProjects\Project 3\Project 3\obj\Debug\Project 3.csproj.AssemblyReference.cache
